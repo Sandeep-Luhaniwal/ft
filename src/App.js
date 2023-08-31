@@ -1,7 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/css/Root.css';
-import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Nav from './compoments/Nav';
 import HeroSection from './compoments/HeroSection';
