@@ -20,9 +20,9 @@ const Nav = () => {
                             </div>
                             <div className='d-flex gap-50 align-items-center'>
                                 <a onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#travels'>All Flight</a>
-                                <a to="/" onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#feature'>Schedule</a>
-                                <a to="/" onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#passanger'>Passengers</a>
-                                <a to="/" onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#order'>Your Orders</a>
+                                <a onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#feature'>Schedule</a>
+                                <a onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#passanger'>Passengers</a>
+                                <a onClick={() => setMenu(false)} className='ff_primary line position-relative fs_sm color_white fw_regular' href='#order'>Your Orders</a>
                                 <button onClick={() => setMenu(false)} className='inline-btn ff_primary position-relative fs_sm color_white fw_medium'>
                                     Let’s Fly
                                 </button>
