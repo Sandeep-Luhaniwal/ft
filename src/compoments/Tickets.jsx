@@ -1,5 +1,4 @@
 import React from "react";
-import "react-stacked-carousel/dist/index.css";
 import { Col, Row } from 'react-bootstrap'
 import golbalPlan from '../assets/images/png/global.png'
 import CardExample from "./CardExample";
